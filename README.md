@@ -10,12 +10,13 @@ A simple **Node.js API** for sending OTP emails with **Express** and **Nodemaile
 
 ---
 
+## 🌟 env
 Create a .env file in the project root and add:
 
-PORT=3020
-MAILER_EMAIL=your-email@example.com
-MAILER_PASSWORD=your-email-password
-APP_NAME=smtp.example.com
+- PORT=3020
+- MAILER_EMAIL=your-email@example.com
+- MAILER_PASSWORD=your-email-password
+- APP_NAME=smtp.example.com
 
 ## 🚀 Installation & Setup
 
